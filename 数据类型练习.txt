@@ -1,5 +1,4 @@
-
-基本（原始）类型
+//基本（原始）类型
 console.log(typeof123); //number
 console.log(typeof true); //boolean
 console.log(typeof "abc"); //string
