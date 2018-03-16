@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 //基本类型
+=======
+
+//基本（原始）类型
+>>>>>>> ae5354f3deecdeae99953ed39bfdccd49c73cd55
 console.log(typeof123); //number
 console.log(typeof true); //boolean
 console.log(typeof "abc"); //string
